@@ -1,0 +1,19 @@
+{
+  "name": "news-app",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "*",
+    "ejs-mate": "*",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "idb": "^2.1.1",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0"
+  }
+}
