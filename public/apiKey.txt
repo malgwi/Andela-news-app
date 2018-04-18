@@ -1,0 +1,10 @@
+API_KEY = 85e93f2021e248a58e0f930602b9c8b3
+query = https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=API_KEY
+
+queryBitcoin = https://newsapi.org/v2/everything?q=bitcoin&sortBy=publishedAt&apiKey=API_KEY
+
+queryTechCrunch = https://newsapi.org/v2/top-headlines?source=techcrunch&apiKey=API_KEY
+
+queryApple = https://newsapi.org/v2/everything?q=apple&from=2018-04-06&to=2018-04-06&sortBy=popularity&apiKey=API_KEY
+
+queryWallStreetJournal = https://newsapi.org/v2/everything?domains=wsj.com&apiKey=API_KEY
